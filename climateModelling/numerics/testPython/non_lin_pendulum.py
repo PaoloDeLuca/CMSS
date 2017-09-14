@@ -1,7 +1,7 @@
 #non linear pendulum 
 
 # code for nonlin and lin theta variation with time taken from https://www.youtube.com/watch?v=_eZyTNthJG4 
-# Potential Energy and Kinetic Energy added.
+# Potential Energy and Kinetic Energy added -> KE does not work.
 
 import numpy as np
 from  numpy import sin, cos
